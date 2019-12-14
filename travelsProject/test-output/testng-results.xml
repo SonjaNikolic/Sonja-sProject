@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48471" started-at="2019-12-14T10:36:07 CET" finished-at="2019-12-14T10:36:55 CET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48471" started-at="2019-12-14T10:36:07 CET" finished-at="2019-12-14T10:36:55 CET">
+      <class name="tests.TravelsCarsExtrasTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.TravelsCarsExtrasTest@5c5a1b69]" name="setup" is-config="true" duration-ms="18626" started-at="2019-12-14T10:36:07 CET" finished-at="2019-12-14T10:36:25 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addNewItem()[pri:25, instance:tests.TravelsCarsExtrasTest@5c5a1b69]" name="addNewItem" duration-ms="29669" started-at="2019-12-14T10:36:25 CET" finished-at="2019-12-14T10:36:55 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewItem -->
+        <test-method status="PASS" signature="isStatusChanged()[pri:26, instance:tests.TravelsCarsExtrasTest@5c5a1b69]" name="isStatusChanged" duration-ms="40" started-at="2019-12-14T10:36:55 CET" finished-at="2019-12-14T10:36:55 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isStatusChanged -->
+        <test-method status="PASS" signature="isImageUploadedSuccessfuly()[pri:27, instance:tests.TravelsCarsExtrasTest@5c5a1b69]" name="isImageUploadedSuccessfuly" duration-ms="20" started-at="2019-12-14T10:36:55 CET" finished-at="2019-12-14T10:36:55 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isImageUploadedSuccessfuly -->
+        <test-method status="PASS" signature="possibleTextInPrice()[pri:28, instance:tests.TravelsCarsExtrasTest@5c5a1b69]" name="possibleTextInPrice" duration-ms="38" started-at="2019-12-14T10:36:55 CET" finished-at="2019-12-14T10:36:55 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- possibleTextInPrice -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:tests.TravelsCarsExtrasTest@5c5a1b69]" name="quit" is-config="true" duration-ms="1" started-at="2019-12-14T10:36:55 CET" finished-at="2019-12-14T10:36:55 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- tests.TravelsCarsExtrasTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
